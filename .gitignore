@@ -3,7 +3,7 @@ myenv/
 
 # Ignore Node.js dependencies
 frontendtodo/node_modules/
-
+frontendtodo/.next/
 # Ignore other system files
 *.pyc
 __pycache__/
