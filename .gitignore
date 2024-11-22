@@ -1,0 +1,10 @@
+# Ignore Python virtual environment
+myenv/
+
+# Ignore Node.js dependencies
+frontendtodo/node_modules/
+
+# Ignore other system files
+*.pyc
+__pycache__/
+.env
