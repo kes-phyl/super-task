@@ -46,4 +46,4 @@ The frontend fetches and updates data from the backend API.
 
 Below is a preview of the Todo application:
 
-![Todo App Screenshot](public/todo.png)
+![Todo App Screenshot](/frontendtodo/public/todo.png)
