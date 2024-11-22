@@ -27,7 +27,7 @@ Ensure you have the following installed:
 The backend will be available at http://127.0.0.1:8000/
 
 
-## Frontend Setup (Next.js)
+## Frontend Setup (React Js)
 1. Navigate to the frontend folder:
   frontendtodo
 
@@ -41,3 +41,9 @@ Usage:
 
 Ensure the backend (http://127.0.0.1:8000/) is running before starting the frontend (http://localhost:3000/).
 The frontend fetches and updates data from the backend API.
+
+## Application Preview
+
+Below is a preview of the Todo application:
+
+![Todo App Screenshot](public/screenshots/todo.png)
